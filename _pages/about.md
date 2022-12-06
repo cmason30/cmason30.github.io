@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Colin Mason"
-excerpt: "About me"
+title: "Home"
+excerpt: "Sup"
 author_profile: true
 redirect_from: 
   - /about/
