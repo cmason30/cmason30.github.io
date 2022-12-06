@@ -17,4 +17,4 @@ I spend most of my time working on a variety of data science projects. It's ofte
 
 My Interest in Psychology
 ======
-My psychology degree has helped me find a passion in biomedical research. I've published research in the Journal of Neuorchemistry. 
+My psychology degree has helped me find a passion in biomedical research. I've published research in the Journal of Neurochemistry. 
