@@ -8,8 +8,8 @@
 
 {% if page.title %}
   {% assign seo_title = page.title | append: " " | append: site.title_separator | append: " " | append: site.title %}
-{% elsif page.title and page.author_profile == true %}
-  {% assign seo_title = "Colin Mason Portfolio" %}
+<!--{% elsif page.title and page.author_profile == true %}-->
+<!--  {% assign seo_title = "Colin Mason Portfolio" %}-->
 {% endif %}
 
 {% if seo_title %}
